@@ -16,8 +16,13 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=FrideakisAB&theme=dark)
-![Stats](https://github-readme-stats.vercel.app/api?username=FrideakisAB&count_private=true&show_icons=true&theme=dark)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrideakisAB&theme=dark" alt="FrideakisAB" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FrideakisAB&count_private=true&show_icons=true&theme=dark" alt="FrideakisAB" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrideakisAB&layout=compact&langs_count=3&theme=dark" alt="FrideakisAB" />
