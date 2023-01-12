@@ -19,11 +19,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrideakisAB&theme=dark" alt="FrideakisAB" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FrideakisAB&count_private=true&show_icons=true&theme=dark" alt="FrideakisAB" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrideakisAB&layout=compact&langs_count=3&theme=dark" alt="FrideakisAB" />
-</p>
